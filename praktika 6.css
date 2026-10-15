@@ -4,7 +4,7 @@ body {
   margin: 0;
   box-sizing: border-box;
   height: 100%;
-  background-image: url("https://raw.githubusercontent.com/Kira545-Rika/Praktika-6/refs/heads/main/tuman.png")
+  background-image: url("https://raw.githubusercontent.com/Kira545-Rika/Praktika-6/refs/heads/main/tuman.png");
   position: relative;
   font-family: "Roboto", sans-serif;
 }
@@ -16,7 +16,7 @@ body {
   width: 330px;
   height: 530px;
   border-radius: 15px;
-  background-image: url("https://raw.githubusercontent.com/Kira545-Rika/Praktika-6/refs/heads/main/tuman1.png")
+  background-image: url("https://raw.githubusercontent.com/Kira545-Rika/Praktika-6/refs/heads/main/tuman1.png");
   box-shadow: 0 15px 20px 10px #ff0000;
 }
 .player input[type=range] {
